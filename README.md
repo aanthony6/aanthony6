@@ -1,16 +1,69 @@
-## Hi there 👋
 
-<!--
-**aanthony6/aanthony6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a full stack developer...
 
-Here are some ideas to get you started:
+# Anthony González
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Software Developer ⚡
+
+Desarrollo aplicaciones web, aplicaciones móviles y soluciones tecnológicas.
+También soy Graphic Designer, combinando desarrollo y diseño para crear experiencias digitales.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+Java · JavaScript · TypeScript · Python · PHP · C · C++ · Ruby · Visual Basic
+
+### Frontend
+HTML5 · CSS3 · React · Vue.js · Astro · TailwindCSS
+
+### Backend
+Node.js · NestJS · FastAPI
+
+### Databases
+MySQL · MariaDB · PostgreSQL · MongoDB · Supabase · SQL
+
+### Mobile
+Java · Android · Android Studio
+
+### DevOps & Tools
+Git · GitHub Actions · Docker · Nginx · npm · pnpm
+
+---
+
+## 🎨 Design + Development
+
+**Code meets creativity.**
+
+Graphic Design × Software Development
+
+---
+
+## 🚀 Projects
+
+- 📱 **CDM Aplicación Móvil Android**
+- 💻 **CDM Aplicación de Facturación**
+- 🛒 **E-Commerce R&M**
+- 🌐 **Página Web Interactiva Escolar**
+- 🎨 **Portafolio de Diseño Gráfico**
+- 💼 **Portafolio**
+
+---
+
+## 📚 Areas
+
+Programación · Desarrollo de Aplicaciones · Desarrollo Web  
+Bases de Datos · Ingeniería de Software  Redes Informáticas  
+Sistemas de Información · Automatizaciones de sistemas 
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aanthony6&show_icons=true&theme=dark)
+
+---
+
+### Let's build something 🚀
