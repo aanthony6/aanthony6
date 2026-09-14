@@ -1,156 +1,130 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ANTHONY%20GONZ%C3%81LEZ&fontSize=44&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20GRAPHIC%20DESIGNER&descAlignY=58&descSize=16"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=760&lines=Software+Developer+%E2%9A%A1;Licenciado+en+Desarrollo+de+Software+%F0%9F%8E%93;Graphic+Designer+%2B+Developer;Code+%C3%97+Design+%C3%97+Technology"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=ANTHONY%20GONZ%C3%81LEZ&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%20%E2%80%A2%20%20GRAPHIC%20DESIGNER&descAlignY=58&descSize=16" width="100%"/>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=760&lines=Software+Developer+%E2%9A%A1;Licenciado+en+Desarrollo+de+Software+%F0%9F%8E%93;Graphic+Designer+%2B+Developer;Code+%C3%97+Design+%C3%97+Technology" alt="Typing animation"/>
+
+<br><br>
 
 <a href="https://github.com/aanthony6">
-<img src="https://img.shields.io/badge/GitHub-aanthony6-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-aanthony6-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="https://github.com/aanthony6?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Repositories-View-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 
 </div>
 
-> whoami
+01 — PROFILE
 
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  ANTHONY GONZÁLEZ                                           │
-│  Software Developer                                         │
-│  Licenciado en Desarrollo de Software                       │
-│  Graphic Designer                                            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+Software Developer · Graphic Designer
 
-I build web applications, mobile applications and technological solutions, combining software development with visual design.
-
-Code meets creativity.
-
-> technology
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,php,c,cpp,ruby,html,css,react,vue,astro,tailwind,nodejs,nestjs,fastapi,mysql,postgres,mongodb,supabase,androidstudio,git,docker,nginx,githubactions,vscode,npm,pnpm&perline=10"/>
-
-</div>
-
-> featured projects
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-📱 CDM Mobile
-
-Android mobile application.
+I build web applications, mobile applications and digital solutions, combining software development with visual design.
 
 <br>
+
+<div align="center">
+
+CODE × DESIGN
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2400&pause=700&color=8B5CF6&center=true&vCenter=true&width=650&lines=Development+%E2%80%A2+Architecture+%E2%80%A2+Interfaces;Software+%2B+Visual+Design;Ideas+into+functional+digital+experiences" alt="Code and design animation"/>
+
+</div>
+
+02 — TECHNOLOGY
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,php,c,cpp,ruby,html,css&perline=10" alt="Programming languages"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,vue,astro,tailwind,nodejs,nestjs,fastapi&perline=7" alt="Web development"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&perline=4" alt="Databases"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=androidstudio,git,docker,nginx,githubactions,vscode,npm,pnpm&perline=8" alt="Tools and DevOps"/>
+
+</div>
+
+03 — SELECTED WORK
+
+<div align="center">
 
 <a href="https://github.com/aanthony6/CDM-PRO-Aplicaci-n-Movil-Android">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aanthony6&repo=CDM-PRO-Aplicaci-n-Movil-Android&theme=github_dark&hide_border=true" alt="CDM Android"/>
 </a>
-
-</td>
-
-<td width="50%" align="center">
-
-🧾 CDM Billing
-
-Business billing application.
-
-<br>
 
 <a href="https://github.com/aanthony6/CDM-Aplicacion-de-facturacion-">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aanthony6&repo=CDM-Aplicacion-de-facturacion-&theme=github_dark&hide_border=true" alt="CDM Facturación"/>
 </a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-🛒 E-Commerce R&M
-
-E-commerce web application.
 
 <br>
 
 <a href="https://github.com/aanthony6/E-COMERCE-R-M">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aanthony6&repo=E-COMERCE-R-M&theme=github_dark&hide_border=true" alt="E-Commerce R&M"/>
 </a>
 
-</td>
-
-<td width="50%" align="center">
-
-🌐 Interactive School
-
-Interactive educational web project.
+<a href="https://github.com/aanthony6/PAGINA-WEB-INTERACTIVA-ESCOLAR">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aanthony6&repo=PAGINA-WEB-INTERACTIVA-ESCOLAR&theme=github_dark&hide_border=true" alt="Página web interactiva"/>
+</a>
 
 <br>
 
-<a href="https://github.com/aanthony6/PAGINA-WEB-INTERACTIVA-ESCOLAR">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/aanthony6/Portafolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aanthony6&repo=Portafolio&theme=github_dark&hide_border=true" alt="Portafolio"/>
 </a>
 
-</td>
-
-</tr>
-</table>
-
-</div>
-
-> design × development
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=888888&center=true&vCenter=true&width=720&lines=Turning+ideas+into+digital+experiences.;Designing+interfaces.+Building+solutions.;Creativity+meets+software+engineering."/>
-
-CODE × DESIGN × TECHNOLOGY
-
-Building digital experiences that work and look good.
+<a href="https://github.com/aanthony6/Portafolio-Dise-o-Grafico">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aanthony6&repo=Portafolio-Dise-o-Grafico&theme=github_dark&hide_border=true" alt="Portafolio de diseño gráfico"/>
+</a>
 
 </div>
 
-> github activity
+04 — GITHUB
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aanthony6&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/aanthony6">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aanthony6&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanthony6&layout=compact&hide_border=true&theme=github_dark&langs_count=8"/>
+<a href="https://github.com/aanthony6">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanthony6&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages"/>
+</a>
 
 <br><br>
 
-<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=aanthony6&theme=github-compact&hide_border=true&area=true"/>
+<img src="https://streak-stats.demolab.com?user=aanthony6&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
+05 — CONNECT
+
 <div align="center">
 
-SYSTEM.STATUS = ONLINE
+<a href="https://github.com/aanthony6">
+  <img src="https://img.shields.io/badge/GitHub-aanthony6-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://instagram.com/geekdevstudio">
+  <img src="https://img.shields.io/badge/Instagram-geekdevstudio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
-SOFTWARE DEVELOPMENT    ████████████████████
-WEB DEVELOPMENT         ████████████████████
-MOBILE DEVELOPMENT      ████████████████░░░░
-DATABASES               ████████████████░░░░
-GRAPHIC DESIGN          ████████████████████
+<br><br>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Thanks+for+visiting+my+profile+%E2%80%A2+Let's+build+something+great." alt="Footer animation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=888888&center=true&vCenter=true&width=620&lines=Thanks+for+visiting+my+profile.;Let's+build+something+great."/>
+<br><br>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
 <br>
 
 <a href="https://github.com/aanthony6">
